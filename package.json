@@ -1,0 +1,36 @@
+{
+	"name": "amethyst",
+	"displayName": "Amethyst",
+	"description": "gg theme",
+	"version": "0.0.1",
+	"author": "Rudransh [@rudyt7]",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Amethyst",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Amethyst-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rudyt7/VsTheme.git"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"VSCode",
+		"Themes"
+	],
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/rudyt7/VsTheme/issues"
+	},
+	"homepage": "https://github.com/rudyt7/VsTheme#readme"
+}
