@@ -81,7 +81,7 @@
 		"editorLineNumber.foreground": "#ff7b00",
 		"editorLineNumber.activeForeground": "#ff7b00",
 		"editorCursor.foreground": "#80a4c2",
-		"editor.selectionBackground": "#1d3b53",
+		"editor.selectionBackground": "#1d3b53", //             selection and code stuff
 		"editor.selectionHighlightBackground": "#5f7e9779",
 		"editor.inactiveSelectionBackground": "#7e57c25a",
 		"editor.wordHighlightBackground": "#f6bbe533",
@@ -108,7 +108,7 @@
 		"editorError.border": null,
 		"editorWarning.foreground": "#b39554",
 		"editorWarning.border": null,
-		"editorGutter.background": "#011627",
+		"editorGutter.background": "#011627", //           contains line numbers and stuff
 		"editorGutter.modifiedBackground": "#e2b93d",
 		"editorGutter.addedBackground": "#9CCC65",
 		"editorGutter.deletedBackground": "#EF5350",
@@ -118,12 +118,12 @@
 		"diffEditor.removedTextBorder": "#ef53504d",
 		"editorWidget.background": "#021320",
 		"editorWidget.border": "#5f7e97",
-		"editorSuggestWidget.background": "#2C3043",
+		"editorSuggestWidget.background": "#2C3043", //      auto completion
 		"editorSuggestWidget.border": "#2B2F40",
 		"editorSuggestWidget.foreground": "#d6deeb",
 		"editorSuggestWidget.highlightForeground": "#ffffff",
 		"editorSuggestWidget.selectedBackground": "#5f7e97",
-		"editorHoverWidget.background": "#011627",
+		"editorHoverWidget.background": "#011627", //         hover suggestions and tips
 		"editorHoverWidget.border": "#5f7e97",
 		"debugExceptionWidget.background": "#011627",
 		"debugExceptionWidget.border": "#5f7e97",
