@@ -30,7 +30,7 @@
 		"scrollbarSlider.activeBackground": "#084d8180",
 		"scrollbarSlider.background": "#084d8180",
 		"scrollbarSlider.hoverBackground": "#084d8180",
-		"badge.background": "#09ff00", //           badge in search etc. contains no of matching
+		"badge.background": "#110024", //           badge in search etc. contains no of matching
 		"badge.foreground": "#ffffff",
 		"progress.background": "#7e57c2",
 		"breadcrumb.foreground": "#A599E9",
@@ -48,18 +48,20 @@
 		"list.hoverForeground": "#ffffff",
 		"list.inactiveSelectionBackground": "#0e293f",
 		"list.inactiveSelectionForeground": "#5f7e97",
-		"activityBar.background": "#720058", //             activity bar the far left one
-		"activityBar.dropBackground": "#5f7e97",
+		"activityBar.background": "#1e0d31", //             activity bar the far left one
+		"activityBar.dropBackground": "#ff00aa",
 		"activityBar.foreground": "#ff00aa",
-		"activityBar.border": "#011627",
-		"activityBarBadge.background": "#44596b",
+		"activityBar.inactiveForeground": "#9966cc",
+		"activityBar.border": "#9966cc",
+		"activityBarBadge.background": "#9966cc",
 		"activityBarBadge.foreground": "#ffffff",
-		"sideBar.background": "#5c0937", //             Sidebar contains the folder structure etc
-		"sideBar.foreground": "#c20188",
-		"sideBar.border": "#011627",
-		"sideBarTitle.foreground": "#5f7e97",
-		"sideBarSectionHeader.background": "#011627",
-		"sideBarSectionHeader.foreground": "#5f7e97",
+		"activityBar.activeFocusBorder": "#9966cc",
+		"sideBar.background": "#1e0d31", //             Sidebar contains the folder structure etc
+		"sideBar.foreground": "#ff00aa",
+		"sideBar.border": "#1e0d31",
+		"sideBarTitle.foreground": "#9966cc",
+		"sideBarSectionHeader.background": "#1e0d31",
+		"sideBarSectionHeader.foreground": "#ff00aa",
 		// "minimap.background": "#ff00aa",//           minimap settings are not present
 		"tab.activeBackground": "#720058",
 		"tab.activeForeground": "#ff7b00", //                    Tab Setting ( open and active ones)
@@ -78,7 +80,7 @@
 		"editorGroupHeader.tabsBorder": "#ff7b00",
 		"editor.background": "#110024", //                 background main(code)
 		"editor.foreground": "#ffffff", //                  code (font)
-		"editorLineNumber.foreground": "#ff7b00",
+		"editorLineNumber.foreground": "#39264d",
 		"editorLineNumber.activeForeground": "#ff7b00",
 		"editorCursor.foreground": "#80a4c2",
 		"editor.selectionBackground": "#1d3b53", //             selection and code stuff
@@ -108,7 +110,7 @@
 		"editorError.border": null,
 		"editorWarning.foreground": "#b39554",
 		"editorWarning.border": null,
-		"editorGutter.background": "#011627", //           contains line numbers and stuff
+		"editorGutter.background": "#110024", //           contains line numbers and stuff
 		"editorGutter.modifiedBackground": "#e2b93d",
 		"editorGutter.addedBackground": "#9CCC65",
 		"editorGutter.deletedBackground": "#EF5350",
@@ -142,19 +144,19 @@
 		"peekViewTitle.background": "#b3ff00",
 		"peekViewTitleDescription.foreground": "#697098",
 		"peekViewTitleLabel.foreground": "#5f7e97",
-		"merge.currentHeaderBackground": "#5f7e97",
+		"merge.currentHeaderBackground": "#5f7e97", //     git changes
 		"merge.currentContentBackground": null,
 		"merge.incomingHeaderBackground": "#7e57c25a",
 		"merge.incomingContentBackground": null,
 		"merge.border": null,
-		"panel.background": "#ae00ff",
+		"panel.background": "#1e0d31", //          contains the terminal and output tabs etc
 		"panel.border": "#5f7e97",
 		"panelTitle.activeBorder": "#5f7e97",
 		"panelTitle.activeForeground": "#ffffffcc",
 		"panelTitle.inactiveForeground": "#d6deeb80",
-		"statusBar.background": "#360055", //                  status bar main
-		"statusBar.foreground": "#ff008c",
-		"statusBar.border": "#360055",
+		"statusBar.background": "#1e0d31", //                  status bar main
+		"statusBar.foreground": "#9966cc",
+		"statusBar.border": "#1e0d31",
 		"statusBar.debuggingBackground": "#1e0d31",
 		"statusBar.debuggingForeground": null,
 		"statusBar.debuggingBorder": "#ff008c",
@@ -165,10 +167,11 @@
 		"statusBarItem.hoverBackground": "#5b068b",
 		"statusBarItem.prominentBackground": "#202431",
 		"statusBarItem.prominentHoverBackground": "#202431",
-		"titleBar.activeBackground": "#360055", //              Title bar main
-		"titleBar.activeForeground": "#ff008c", //     #ff6ec7
+		"titleBar.activeBackground": "#1e0d31", //              Title bar main
+		"titleBar.activeForeground": "#9966cc", //     #ff6ec7
 		"titleBar.inactiveBackground": "#010e1a",
 		"titleBar.inactiveForeground": null,
+		"titleBar.border": "#1e0d31",
 		"notifications.background": "#360055", //          Notifications
 		"notifications.border": "#ff008c",
 		"notificationCenter.border": "#ff008c",
