@@ -3,14 +3,14 @@
 	"type": "dark",
 	"colors": {
 		"contrastBorder": "#122d42",
-		"focusBorder": "#122d42",
+		"focusBorder": "#9966cc",
 		"foreground": "#d6deeb",
 		"widget.shadow": "#011627",
 		"selection.background": "#4373c2",
 		"errorForeground": "#EF5350",
-		"button.background": "#7e57c2cc", //        all buttons in vs code
+		"button.background": "#9966cc", //        all buttons in vs code
 		"button.foreground": "#ffffffcc",
-		"button.hoverBackground": "#7e57c2",
+		"button.hoverBackground": "#6e27b1",
 		"dropdown.background": "#011627", //         drop downs
 		"dropdown.border": "#5f7e97",
 		"dropdown.foreground": "#ffffffcc",
@@ -38,7 +38,7 @@
 		"breadcrumb.activeSelectionForeground": "#FFFFFF",
 		"breadcrumbPicker.background": "#001122",
 		"list.activeSelectionBackground": "#234d708c", //          this is the file explorer tree map
-		"list.activeSelectionForeground": "#ffffff",
+		"list.activeSelectionForeground": "#ff217c",
 		"list.invalidItemForeground": "#975f94",
 		"list.dropBackground": "#011627",
 		"list.focusBackground": "#010d18",
@@ -49,19 +49,19 @@
 		"list.inactiveSelectionBackground": "#0e293f",
 		"list.inactiveSelectionForeground": "#5f7e97",
 		"activityBar.background": "#1e0d31", //             activity bar the far left one
-		"activityBar.dropBackground": "#ff00aa",
-		"activityBar.foreground": "#ff00aa",
+		"activityBar.dropBackground": "#ec007c",
+		"activityBar.foreground": "#ec007c",
 		"activityBar.inactiveForeground": "#9966cc",
 		"activityBar.border": "#9966cc",
 		"activityBarBadge.background": "#9966cc",
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBar.activeFocusBorder": "#9966cc",
 		"sideBar.background": "#1e0d31", //             Sidebar contains the folder structure etc
-		"sideBar.foreground": "#ff00aa",
+		"sideBar.foreground": "#9966cc",
 		"sideBar.border": "#1e0d31",
-		"sideBarTitle.foreground": "#9966cc",
-		"sideBarSectionHeader.background": "#1e0d31",
-		"sideBarSectionHeader.foreground": "#ff00aa",
+		"sideBarTitle.foreground": "#ec007c",
+		"sideBarSectionHeader.background": "#3b1157",
+		"sideBarSectionHeader.foreground": "#ec007c",
 		// "minimap.background": "#ff00aa",//           minimap settings are not present
 		"tab.activeBackground": "#720058",
 		"tab.activeForeground": "#ff7b00", //                    Tab Setting ( open and active ones)
@@ -159,7 +159,7 @@
 		"statusBar.border": "#1e0d31",
 		"statusBar.debuggingBackground": "#1e0d31",
 		"statusBar.debuggingForeground": null,
-		"statusBar.debuggingBorder": "#ff008c",
+		"statusBar.debuggingBorder": "#ec007c",
 		"statusBar.noFolderForeground": null,
 		"statusBar.noFolderBackground": "#360055",
 		"statusBar.noFolderBorder": "#FF6700",
@@ -173,9 +173,9 @@
 		"titleBar.inactiveForeground": null,
 		"titleBar.border": "#1e0d31",
 		"notifications.background": "#360055", //          Notifications
-		"notifications.border": "#ff008c",
-		"notificationCenter.border": "#ff008c",
-		"notificationToast.border": "#ff008c",
+		"notifications.border": "#ec007c",
+		"notificationCenter.border": "#ec007c",
+		"notificationToast.border": "#ec007c",
 		"notifications.foreground": "#fff",
 		"notificationLink.foreground": "#FF6700",
 		"extensionButton.prominentForeground": "#ffffffcc",
